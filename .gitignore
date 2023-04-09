@@ -1,0 +1,9 @@
+.vscode/
+.cache/
+build/
+font/
+bdf/
+data/
+*.fnt
+*.bdf
+.DS_Store
